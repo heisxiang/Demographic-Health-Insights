@@ -1,0 +1,54 @@
+﻿TOPIC_ID,TOPIC,CATEGORY_ID,CATEGORY
+1,Angina/angina pectoris,1,Selected Circulatory Conditions
+2,Coronary heart disease,1,Selected Circulatory Conditions
+3,"High cholesterol diagnosis, self-reported",1,Selected Circulatory Conditions
+4,"Hypertension diagnosis, self-reported",1,Selected Circulatory Conditions
+5,Heart attack/myocardial infarction,1,Selected Circulatory Conditions
+6,"COPD, emphysema, chronic bronchitis",2,Selected Respiratory Conditions
+7,Asthma episode/attack,2,Selected Respiratory Conditions
+8,Current asthma in adults,2,Selected Respiratory Conditions
+9,Any type of cancer,3,Cancer
+10,Breast cancer,3,Cancer
+11,Cervical cancer,3,Cancer
+12,Prostate cancer,3,Cancer
+13,Any skin cancer,3,Cancer
+14,Arthritis diagnosis,4,Selected Diseases and Conditions
+15,Regularly experienced chronic pain,4,Selected Diseases and Conditions
+16,"Diagnosed diabetes, self-reported",4,Selected Diseases and Conditions
+17,"Obesity, self-reported",4,Selected Diseases and Conditions
+18,"Regularly had feelings of worry, nervousness, or anxiety",5,Mental Health
+19,"Taking prescription medication for feelings of worry, nervousness, or anxiety",5,Mental Health
+20,Regularly had feelings of depression,5,Mental Health
+21,Taking prescription medication for feelings of depression,5,Mental Health
+22,Counseled by a mental health professional,5,Mental Health
+23,Fair or poor health status in adults,6,Health Status
+24,"Six or more workdays missed due to illness, injury, or disability",6,Health Status
+25,Disability status (composite),7,Difficulties in Functioning
+26,Any difficulty hearing,7,Difficulties in Functioning
+27,Any difficulty seeing,7,Difficulties in Functioning
+28,Any difficulty walking or climbing steps,7,Difficulties in Functioning
+29,Any difficulty communicating,7,Difficulties in Functioning
+30,Any difficulty with self care,7,Difficulties in Functioning
+31,Any difficulty remembering or concentrating,7,Difficulties in Functioning
+32,Current cigarette smoking,8,Health Behaviors
+33,Current electronic cigarette use,8,Health Behaviors
+34,Uninsured at time of interview among adults,9,Health Insurance Coverage
+35,Private health insurance coverage at time of interview among adults,9,Health Insurance Coverage
+36,Public health insurance coverage at time of interview among adults,9,Health Insurance Coverage
+37,Uninsured for more than one year,9,Health Insurance Coverage
+38,Uninsured for at least part of the past year,9,Health Insurance Coverage
+39,Exchange-based coverage at time of interview among adults,9,Health Insurance Coverage
+40,Did not get needed medical care due to cost,10,Cost-Related Problems Accessing Care in the Past 12 Months
+41,Delayed getting medical care due to cost among adults,10,Cost-Related Problems Accessing Care in the Past 12 Months
+42,Did not get needed mental health care due to cost,10,Cost-Related Problems Accessing Care in the Past 12 Months
+43,Did not take medication as prescribed to save money,10,Cost-Related Problems Accessing Care in the Past 12 Months
+44,Doctor visit among adults,11,Health Care Use in the Past 12 Months
+45,Wellness visit,11,Health Care Use in the Past 12 Months
+46,Hospital emergency department visit,11,Health Care Use in the Past 12 Months
+47,Urgent care center or retail health clinic visit among adults,11,Health Care Use in the Past 12 Months
+48,Dental exam or cleaning,11,Health Care Use in the Past 12 Months
+49,Receipt of influenza vaccination among adults,11,Health Care Use in the Past 12 Months
+50,Blood pressure check,11,Health Care Use in the Past 12 Months
+51,Prescription medication use among adults,11,Health Care Use in the Past 12 Months
+52,Has a usual place of care among adults,12,Other Health Care
+53,Ever received a pneumococcal vaccination,12,Other Health Care
