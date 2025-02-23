@@ -3,11 +3,7 @@ Demographic Health Insights using CDC National Health Interview Survey Adult Sum
 
 Preview:
 
-![image](https://github.com/user-attachments/assets/1aa5b571-5695-4aba-9bbe-adf13c1d4e45)
-
-![image](https://github.com/user-attachments/assets/8ea8e5e3-a185-4c1e-94d7-f26048aff0ed)
-
-
+<img src="https://github.com/user-attachments/assets/8ea8e5e3-a185-4c1e-94d7-f26048aff0ed" width="720">
 
 ### Summary of Findings
 
