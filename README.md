@@ -34,6 +34,10 @@ Preview:
     * Highest incidence among people with disabilities.
     * Lowest incidence among Asian-only individuals.
 
+---
+
+### Key Takeaways
+
 **Trends That Match Expectations**
 
 * Mental Health Counseling Increase: The rise from ~10% to ~13% aligns with growing awareness, reduced stigma, and expanded telehealth services, particularly post-pandemic.
