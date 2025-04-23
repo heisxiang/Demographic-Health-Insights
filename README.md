@@ -1,7 +1,17 @@
-# Demographic-Health-Insights
-Demographic Health Insights using CDC National Health Interview Survey Adult Summary Health Statistics 2019-2023
+# Demographic Health Insights
 
-Preview:
+### Objectives:
+* Identify key health trends from 2019-2023
+* Identify and compare demographic disparities
+* Determine most prevalent health conditions
+
+### Data Collection:
+CDC National Health Interview Survey Adult Summary Health Statistics 2019-2023
+
+https://data.cdc.gov/National-Center-for-Health-Statistics/NHIS-Adult-Summary-Health-Statistics/25m4-6qqq/about_data
+
+
+### Preview:
 
 <img src="https://github.com/user-attachments/assets/8ea8e5e3-a185-4c1e-94d7-f26048aff0ed" width="720">
 
