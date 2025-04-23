@@ -1,7 +1,7 @@
 # Demographic Health Insights
 
 ### Objective
-Identify prevalent health issues across demographics, to allow healthcare providers and insurers better understand and predict health-related risk factors.
+Identify prevalent health issues across various demographics, to allow healthcare providers and insurers better understand and predict health-related risk factors.
 
 ### Data Collection
 Data taken from CDC National Health Interview Survey Adult Summary Health Statistics 2019-2023.
